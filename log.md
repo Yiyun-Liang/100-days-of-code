@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: December 31, 2016 Saturday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp, Udemy, Pluralsight, Udacity, etc.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: I really enjoy learning new technologies and working on projects by myself and with teams.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [My Github](https://github.com/Yiyun-Liang)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 3, 2017 Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked on a simple project using React.js and learnt the basics of React components and JSX.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started using React for web development, and I have a great feeling about it.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Hello React](https://github.com/Yiyun-Liang/JavaScript-Notes/tree/master/HelloReact)
+
+
+###To be continued...
