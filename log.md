@@ -19,4 +19,13 @@
 **Link(s) to work**: [Hello React](https://github.com/Yiyun-Liang/JavaScript-Notes/tree/master/HelloReact)
 
 
+### Day 2: January 4, 2017 Wednesday
+
+**Today's Progress**: Worked on a simple static website using HTML, CSS and JavaScript. The website uses apis to generate random quotes for the user.
+
+**Thoughts** Adding javascript and animation really makes the website more interesting.
+
+**Link(s) to work**: [Random Quote Machine](https://github.com/Yiyun-Liang/Random-Quote-Machine)
+:x
+
 ###To be continued...
