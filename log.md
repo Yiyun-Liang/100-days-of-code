@@ -14,18 +14,29 @@
 
 **Today's Progress**: Worked on a simple project using React.js and learnt the basics of React components and JSX.
 
-**Thoughts** I've recently started using React for web development, and I have a great feeling about it.
+**Thoughts**: I've recently started using React for web development, and I have a great feeling about it.
 
 **Link(s) to work**: [Hello React](https://github.com/Yiyun-Liang/JavaScript-Notes/tree/master/HelloReact)
 
 
 ### Day 2: January 4, 2017 Wednesday
 
-**Today's Progress**: Worked on a simple static website using HTML, CSS and JavaScript. The website uses apis to generate random quotes for the user.
+**Today's Progress**: Worked on two simple static website using HTML, CSS and JavaScript. One website uses apis to generate random quotes for the user, the other one uses twitch.tv api to forward channels.
 
-**Thoughts** Adding javascript and animation really makes the website more interesting.
+**Thoughts**: Adding javascript and animation really makes the website more interesting. For api integrations, mostly used getJSON and ajax calls.
 
-**Link(s) to work**: [Random Quote Machine](https://github.com/Yiyun-Liang/Random-Quote-Machine)
-:x
+**Link(s) to work**: 
+1) [Random Quote Machine](https://github.com/Yiyun-Liang/Random-Quote-Machine)
+2) [Twitch Streamers](https://github.com/Yiyun-Liang/twitch-streamer)
+
+
+
+### Day 3: January 5, 2017 Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
 
 ###To be continued...
