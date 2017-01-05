@@ -33,10 +33,10 @@
 
 ### Day 3: January 5, 2017 Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Started working on a web app that prompts user for input and looks like a terminal. This is inspired by Alexander Kallaway's project.
 
-**Thoughts**: 
+**Thoughts**: Some planning and brainstorming is very helpful for development.
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
 
 ###To be continued...
