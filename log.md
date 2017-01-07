@@ -39,4 +39,14 @@
 
 **Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
 
+
+
+### Day 4: January 6, 2017 Friday
+
+**Today's Progress**: Continue working on terminal-interface.
+
+**Thoughts**: Need to work on CSS.
+
+**Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
+
 ###To be continued...
