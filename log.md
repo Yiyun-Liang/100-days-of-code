@@ -49,4 +49,14 @@
 
 **Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
 
+
+
+### Day 5: January 7, 2017 Saturday
+
+**Today's Progress**: Continue working on terminal-interface. Handles the detection of different key press.
+
+**Thoughts**: [http://keycode.info/](http://keycode.info/) helps me find key codes.
+
+**Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
+
 ###To be continued...
