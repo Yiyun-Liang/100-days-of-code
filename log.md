@@ -7,7 +7,12 @@
 
 **Thoughts**: I really enjoy learning new technologies and working on projects by myself and with teams.
 
-**Link(s) to work**: [My Github](https://github.com/Yiyun-Liang)
+**Link(s) to work**: 
+* [My Github](https://github.com/Yiyun-Liang) 
+* [A Boring Web App](https://github.com/Yiyun-Liang/terrible-backend)
+* [Swift Projects](https://github.com/Yiyun-Liang/Swift-Miniprojects)
+* [Uber Clone](https://github.com/AntsCrop)
+* [Java Aircraft Game](https://github.com/Yiyun-Liang/AircraftGame)
 
 
 ### Day 1: January 3, 2017 Tuesday
@@ -43,7 +48,7 @@
 
 ### Day 4: January 6, 2017 Friday
 
-**Today's Progress**: Continue working on terminal-interface.
+**Today's Progress**: Continued working on terminal-interface.
 
 **Thoughts**: Need to work on CSS.
 
@@ -53,10 +58,22 @@
 
 ### Day 5: January 7, 2017 Saturday
 
-**Today's Progress**: Continue working on terminal-interface. Handles the detection of different key press.
+**Today's Progress**: Continued working on terminal-interface. Handled the detection of different key press.
 
 **Thoughts**: [http://keycode.info/](http://keycode.info/) helps me find key codes.
 
 **Link(s) to work**: [Terminal Web App](https://github.com/Yiyun-Liang/terminal-interface)
+
+
+
+### Day 6: January 8, 2017 Sunday
+
+**Today's Progress**: Included the use of webpack in the React project and made the project more scalable by having multiple jsx components files.
+
+**Thoughts**: Since we might be using the same components multiple times in the future, it would be more scalable if we put components into separate files.
+
+**Link(s) to work**: 
+* [Hello React](https://github.com/Yiyun-Liang/JavaScript-Notes/tree/master/HelloReact)
+* [React Boilerplate](https://github.com/Yiyun-Liang/React-Boilerplate)
 
 ###To be continued...
