@@ -31,8 +31,8 @@
 **Thoughts**: Adding javascript and animation really makes the website more interesting. For api integrations, mostly used getJSON and ajax calls.
 
 **Link(s) to work**: 
-1) [Random Quote Machine](https://github.com/Yiyun-Liang/Random-Quote-Machine)
-2) [Twitch Streamers](https://github.com/Yiyun-Liang/twitch-streamer)
+* [Random Quote Machine](https://github.com/Yiyun-Liang/Random-Quote-Machine)
+* [Twitch Streamers](https://github.com/Yiyun-Liang/twitch-streamer)
 
 
 
@@ -75,5 +75,25 @@
 **Link(s) to work**: 
 * [Hello React](https://github.com/Yiyun-Liang/JavaScript-Notes/tree/master/HelloReact)
 * [React Boilerplate](https://github.com/Yiyun-Liang/React-Boilerplate)
+
+
+
+### Day 7: January 9, 2017 Monday
+
+**Today's Progress**: Started another project using React. This project uses a weather api and React router.
+
+**Thoughts**: Webpack provides a lot of good features such as alias.
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+
+
+### Day 8: January 10, 2017 Tuesday
+
+**Today's Progress**: Recently learnt a multimedia framework with a plugin based architecture named GStreamer, and used it to built an audio player. 
+
+**Thoughts**: How GStreamer and ffmpeg works and helps video and audio streaming can be investigated furthur.
+
+**Link(s) to work**: [Commandline Audio Player](https://github.com/Yiyun-Liang/Cmdline-AudioPlayer)
 
 ###To be continued...
