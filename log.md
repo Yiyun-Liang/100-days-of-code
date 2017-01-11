@@ -92,8 +92,28 @@
 
 **Today's Progress**: Recently learnt a multimedia framework with a plugin based architecture named GStreamer, and used it to built an audio player. 
 
-**Thoughts**: How GStreamer and ffmpeg works and helps video and audio streaming can be investigated furthur.
+**Thoughts**: GStreamer is very extensible because it is plugin-based and components are pipeline, so we can write custom plugins to suit our apps. How GStreamer and ffmpeg differs and helps video and audio streaming can be investigated furthur.
 
 **Link(s) to work**: [Commandline Audio Player](https://github.com/Yiyun-Liang/Cmdline-AudioPlayer)
 
-###To be continued...
+
+
+### Day 9: January 11, 2017 Wednesday
+
+**Today's Progress**: Continued working on React Weather. 
+
+**Thoughts**: Promises are resolved or rejected. It can be used to replace asynchronous calls that accept callbacks.
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+
+
+### Day 10: January 12, 2017 Thursday
+
+**Today's Progress**: Continued working on React Weather. Started implementing API calls in the app.
+
+**Thoughts**: 
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+###I am updating this log every day:) It's that nice?
