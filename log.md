@@ -120,9 +120,19 @@
 
 ### Day 11: January 13, 2017 Friday
 
-**Today's Progress**: Continued working on React Weather. Spent some time on debugging...
+**Today's Progress**: Continued working on React Weather. Spent some time on debugging... and learnt about ES6 arrow functions.
 
 **Thoughts**: It is very easy for React projects to break so in order to debug the app, an useful browser extension is 1. 'React developer tools' by Facebook. Another useful thing to do is to add breakpoints into code using 2. 'debugger;'. One more thing we can do is to add 3. source maps like 'devtool:"cheap-module-eval-source-map"' inside webpack.config.js.
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+
+
+### Day 12: January 14, 2017 Saturday
+
+**Today's Progress**: Continued working on React Weather. Spent some time on debugging... and learnt about ES6 arrow functions.
+
+**Thoughts**: 
 
 **Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
 
