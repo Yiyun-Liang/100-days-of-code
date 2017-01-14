@@ -112,6 +112,16 @@
 
 **Today's Progress**: Continued working on React Weather. Started implementing API calls in the app.
 
+**Thoughts**: ES6 syntax such as query strings helps concatenate strings to form URLs with parameters, and the axios node package helps make http requests from node.js with promises.
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+
+
+### Day 11: January 13, 2017 Friday
+
+**Today's Progress**: Continued working on React Weather. 
+
 **Thoughts**: 
 
 **Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
