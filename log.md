@@ -130,9 +130,9 @@
 
 ### Day 12: January 14, 2017 Saturday
 
-**Today's Progress**: Continued working on React Weather. Spent some time on debugging... and learnt about ES6 arrow functions.
+**Today's Progress**: Continued working on React Weather. Started styling the pages using foundation css framework(nav bar, main page position, modals, etc) and jquery.
 
-**Thoughts**: 
+**Thoughts**: Keep going! Fighting!
 
 **Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
 
