@@ -136,4 +136,34 @@
 
 **Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
 
+
+
+### Day 13: January 15, 2017 Sunday
+
+**Today's Progress**: Worked on KWCSSA membership card app backend. We started adding a new feature to the app by allowing users to share their thoughts and even secrets on our app either anonymously or with their usernames.
+
+**Thoughts**: We planned to generate random anonymous names by concatinating random adjectives to nouns, which works well and is easier to implement.
+
+**Link(s) to work**: [KWCSSA Membership Card App - backend](https://github.com/KWCSSA/cssams-backend)
+
+
+
+### Day 14: January 16, 2017 Monday
+
+**Today's Progress**: Finished working on React Weather. Finished sending error messages to display in modal. Added custom css and scss features. Finished wiring up the navbar search.
+
+**Thoughts**: [SASS/SCSS](sass-lang.com) is very useful to writing CSS.
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
+
+
+### Day 15: January 17, 2017 Tuesday
+
+**Today's Progress**: Started working on markdown viewer app.
+
+**Thoughts**: 
+
+**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+
 ###I am updating this log every day:) It's that nice?
