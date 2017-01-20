@@ -164,6 +164,36 @@
 
 **Thoughts**: 
 
-**Link(s) to work**: [React Weather](https://github.com/Yiyun-Liang/React-Weather)
+**Link(s) to work**: [Markdown Viewer](https://github.com/Yiyun-Liang/markdown-viewer)
+
+
+
+### Day 16: January 18, 2017 Wednesday
+
+**Today's Progress**: Keep working on markdown viewer app.
+
+**Thoughts**: 
+
+**Link(s) to work**: [Markdown Viewer](https://github.com/Yiyun-Liang/markdown-viewer)
+
+
+
+### Day 17: January 19, 2017 Thursday
+
+**Today's Progress**: Started working on React timer web app.
+
+**Thoughts**: In order to be more familiar with React and be able to use it when it comes in handy, I decided to make several react apps.
+
+**Link(s) to work**: [React Timer](https://github.com/Yiyun-Liang/React-Timer)
+
+
+
+### Day 18: January 20, 2017 Friday
+
+**Today's Progress**: Started working on a set of solutions to the algorithms questions on CLRS.
+
+**Thoughts**: 
+
+**Link(s) to work**: [CLRS](https://github.com/Yiyun-Liang/CLRS)
 
 ###I am updating this log every day:) It's that nice?
