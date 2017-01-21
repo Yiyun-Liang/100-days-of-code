@@ -190,10 +190,20 @@
 
 ### Day 18: January 20, 2017 Friday
 
-**Today's Progress**: Started working on a set of solutions to the algorithms questions on CLRS.
+**Today's Progress**: Started working on a set of solutions to the algorithms questions on CLRS. Finished chapter 2.
 
-**Thoughts**: 
+**Thoughts**: There is a relationship between inversions and insertion sort that I have not thought about before.
 
 **Link(s) to work**: [CLRS](https://github.com/Yiyun-Liang/CLRS)
+
+
+
+### Day 19: January 21, 2017 Saturday
+
+**Today's Progress**: Learnt about Three.js, a JavaScript 3D Library for making WebGL. Planning to use it to model the Earth.
+
+**Thoughts**: The JavaScript community is amazing...
+
+**Link(s) to work**: [Three](https://github.com/Yiyun-Liang/Three)
 
 ###I am updating this log every day:) It's that nice?
