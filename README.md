@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge.
+[![Analytics](https://ga-beacon.appspot.com/UA-90874637-1/100-days-of-code/readme)](https://github.com/Yiyun-Liang/100-days-of-code)
 
 ## Contents
 * [Rules](rules.md)
