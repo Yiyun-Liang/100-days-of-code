@@ -206,4 +206,74 @@
 
 **Link(s) to work**: [Three](https://github.com/Yiyun-Liang/Three)
 
-###I am updating this log every day:) It's that nice?
+
+
+### Day 20: January 22, 2017 Sunday
+
+**Today's Progress**: Worked on CSSA membership card backend. Added the functionality of generating random chinese names for anonymous users.
+
+**Thoughts**: I used docker's way of generating random names, which is made up using a random adjective followed by a random noun. The outputs are really funny.
+
+**Link(s) to work**: [KWCSSA Membership Card App - backend](https://github.com/KWCSSA/cssams-backend)
+
+
+
+### Day 21: January 23, 2017 Monday
+
+**Today's Progress**: Created a repository for practicing algorithms in Java. Started implementing some popular sorting algorithms.
+
+**Thoughts**: The second chapter of CLRS talks about merge sort and insertion sort(extend to a question about inversions). It also shows the proof of why the algorithm works the expected way. This is exactly what I learnt in the course SE212. So it is good to see that the things I learnt can be used in a practical way.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 22: January 24, 2017 Tuesday
+
+**Today's Progress**: Tried implementing a web beacon..
+
+**Thoughts**: Google analytics seem to be providing a way of putting web beacons in code. Did not get it working though, but I will try again next time.
+
+**Link(s) to work**: 
+
+
+
+### Day 23: January 25, 2017 Wednesday
+
+**Today's Progress**: Kept working on some algorithms.
+
+**Thoughts**: Worked on merge sort. There are so many ways to implement merge sort.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 24: January 26, 2017 Thursday
+
+**Today's Progress**: Learnt about JDBC and how to work with postgresql.
+
+**Thoughts**: Remember to close connections!
+
+**Link(s) to work**: 
+
+
+
+### Day 25: January 27, 2017 Friday
+
+**Today's Progress**: Worked on allowing email verification for our membership card app.
+
+**Thoughts**: We wanted to implement this feature so that when we put our new "share your secret" module in production, we can restrict users in some way.
+
+**Link(s) to work**: [KWCSSA Membership Card App - backend](https://github.com/KWCSSA/cssams-backend)
+
+
+
+### Day 26: January 28, 2017 Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: [Three](https://github.com/KWCSSA/cssams-backend)
+
+###I am updating this log every week:) It's that nice?
