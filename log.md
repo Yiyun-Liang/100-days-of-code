@@ -270,10 +270,83 @@
 
 ### Day 26: January 28, 2017 Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Learnt the basics of Hadoop and its ecosystem. Worked on a simple MapReduce job for getting total sales data from purchases report.
 
-**Thoughts**: 
+**Thoughts**: Parallel computing allows the program to run more efficiently, so in Hadoop HDFS, we break data into 64Mb blocks and store them on different data nodes, and we have multiple mappers and reducers to do work in parallel. Moreover, in order to secure data storage in case of failures(internet, etc), it is necessary to keep multiple copies of the data, like when we have a namenode standby and three copies of the data on different data nodes. Last but not the least, DON'T push big data files to github!
 
-**Link(s) to work**: [Three](https://github.com/KWCSSA/cssams-backend)
+**Link(s) to work**: [Simple MapReduce](https://github.com/Yiyun-Liang/Learning-Data)
+
+
+
+### Day 27: January 29, 2017 Sunday
+
+**Today's Progress**: Learnt about jython.
+
+**Thoughts**: Jython runs on JVM like Java and I think it is a good choice for writing Hadoop applications.
+
+**Link(s) to work**: [Simple MapReduce](https://github.com/Yiyun-Liang/Learning-Data)
+
+
+
+### Day 28: January 30, 2017 Monday
+
+**Today's Progress**: Implemented a solution for the max sub array problem.
+
+**Thoughts**: This problem is similar to the merge sort problem(using divide and conquer principle) and this solution also has a time complexity of O(nlogn).
+
+**Link(s) to work**: [MaxSubArray](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DivideAndConquer)
+
+
+
+### Day 29: January 31, 2017 Tuesday
+
+**Today's Progress**: Implemented MapReduce scripts for getting popular links from access log. Learnt the basics about MapReduce design patterns.
+
+**Thoughts**: The design ideas are different from if we want to do the same thing (such as getting the top 10 from the list) in RDBMS.
+
+**Link(s) to work**: [Simple MapReduce](https://github.com/Yiyun-Liang/Learning-Data)
+
+
+
+### Day 30: Feburary 1, 2017 Wednesday
+
+**Today's Progress**: Implemented MapReduce scripts for classical problems in summarization and structural patterns.
+
+**Thoughts**: There is a pdf uploaded onto Github. It is for MapReduce design patterns. 
+
+**Link(s) to work**: [Simple MapReduce](https://github.com/Yiyun-Liang/Learning-Data)
+
+
+
+
+### Day 31: Feburary 2, 2017 Thursday
+
+**Today's Progress**: Implemented MapReduce scripts for forum data. Analyzed problems such as "for each student what is the hour during which the student has posted the most posts."
+
+**Thoughts**: Interesting stuff...
+
+**Link(s) to work**: [Forum Posts Analysis](https://github.com/Yiyun-Liang/Forum-Posts-Analysis)
+
+
+
+
+### Day 32: Feburary 3, 2017 Friday
+
+**Today's Progress**: Implemented MapReduce scripts for forum data. Analyzed problems related to correlations and top N.
+
+**Thoughts**: It is better to do calculations only inside reducer rather than mapper. For example, one problem might be we want to find out the mean of the length of answers for every post. We want to calculate the total length inside reducer rather than mapper.
+
+**Link(s) to work**: [Forum Posts Analysis](https://github.com/Yiyun-Liang/Forum-Posts-Analysis)
+
+
+
+
+### Day 33: Feburary 4, 2017 Saturday
+
+**Today's Progress**: Inspired by Phodal's idea of implementing data analysis with pig and elasticsearch, and finally displaying the result on an interactive map using JavaScript AmMap.
+
+**Thoughts**: "JavaScript amMap is a piece of software for creating interactive maps for your web sites and applications. It’s quite different from mapping products like Google Maps." It uses SVG to render maps rather than VML which is too slow for handling large amount of vector data.
+
+**Link(s) to work**: [IP to Geolocation](https://github.com/Yiyun-Liang/Geo-IP)
 
 ###I am updating this log every week:) It's that nice?
