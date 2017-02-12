@@ -194,7 +194,7 @@
 
 **Thoughts**: There is a relationship between inversions and insertion sort that I have not thought about before.
 
-**Link(s) to work**: [CLRS](https://github.com/Yiyun-Liang/CLRS)
+**Link(s) to work**: [CLRS](https://github.com/Yiyun-Liang/Algorithms)
 
 
 
@@ -348,5 +348,83 @@
 **Thoughts**: "JavaScript amMap is a piece of software for creating interactive maps for your web sites and applications. It’s quite different from mapping products like Google Maps." It uses SVG to render maps rather than VML which is too slow for handling large amount of vector data.
 
 **Link(s) to work**: [IP to Geolocation](https://github.com/Yiyun-Liang/Geo-IP)
+
+
+
+
+### Day 34: Feburary 5, 2017 Sunday
+
+**Today's Progress**: After listening to the first week of lectures of the Coursera Algorithms course, I started working on assignment 1. The program estimates the value of the percolation threshold via Monte Carlo simulation.
+
+**Thoughts**: Used weighted union-find algorithm to achieve the simulation. The worst time complexity is N + M lgN, which can be improved with path compression but still runs ok.
+
+**Link(s) to work**: [Percolation Simulator](https://github.com/Yiyun-Liang/percolation-simulator)
+
+
+
+
+### Day 35: Feburary 6, 2017 Monday
+
+**Today's Progress**: Learnt about different implementations of a stack and their tradeoffs.
+
+**Thoughts**: There are two implementations of stack here, we may want to use them interchangeably based on our needs. If we are concerned about the total cost, we may want to choose resizing array, but if we don't want to have a sudden increase of workload or low guarantee, we may want to choose a linkedlist.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 36: Feburary 7, 2017 Tuesday
+
+**Today's Progress**: Learnt about Java generics.
+
+**Thoughts**: A good principle for modular programming is that we should welcome compile-time error and avoid run-time errors. And we also noticed that generic array creation is not allowed in Java. There seems to be various technical debates with this which I should probably read about on the web sometime. How we solved it is to cast Objects into Items. But probably good programs should never casts(the ugly case...).
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 37: Feburary 8, 2017 Wednesday
+
+**Today's Progress**: Learnt about Java iterators.
+
+**Thoughts**: The client sometimes want to iterate through a data structure but they don't need to know how the data structure is designed or implemented, so that is why we provide them with iterators by implementing the Iterable interface. And then we can use the elegant foreach loop for iteration.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 38: Feburary 9, 2017 Thursday
+
+**Today's Progress**: Completed a couple of challenges related to Queues and Stacks.
+
+**Thoughts**: A good question that is raised when working with arrays and Java generics is that why Java prohibits generic array creation(where we can have generic containers like lists, stacks, etc). This is because Java arrays contain, at runtime, information about its component type. So you must know the component type when you create the array. Since you don't know what T is at runtime, you can't create the array. Also seen some answers on [Quora](https://www.quora.com/Why-does-Java-prohibit-generic-array-creation) and [Stack Overflow](http://stackoverflow.com/questions/2927391/whats-the-reason-i-cant-create-generic-array-types-in-java). Moreover, you need to understand that Java arrays are covariant but Java generics are not: that is, 𝚂𝚝𝚛𝚒𝚗𝚐[] is a subtype of 𝙾𝚋𝚓𝚎𝚌𝚝[], but 𝚂𝚝𝚊𝚌𝚔<𝚂𝚝𝚛𝚒𝚗𝚐> is not a subtype of 𝚂𝚝𝚊𝚌𝚔<𝙾𝚋𝚓𝚎𝚌𝚝>.
+
+
+
+### Day 39: Feburary 10, 2017 Friday
+
+**Today's Progress**: Worked on randomized queue.
+
+**Thoughts**: There are several ways to implement a randomized queue, for example, I can use an array or a linkedlist structure.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 40: Feburary 11, 2017 Saturday
+
+**Today's Progress**: Started familiarizing with some sorting algorithms such as insertion sort, etc.
+
+**Thoughts**: In Java, in order to be able to sort any type of objects(int, string, etc), the sort function should call back the object's compareTo() method. 
+
+Callbacks(functions as parameters) are implemented in different languages in different ways. 
+
+In Java, we use interface; in C, we have function pointers; in C++, we have class-type functors; in C#, there are delegates; and in JavaScript, Python, Perl, ML, they are first-class functions.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
 
 ###I am updating this log every week:) It's that nice?
