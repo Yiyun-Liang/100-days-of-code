@@ -427,4 +427,90 @@ In Java, we use interface; in C, we have function pointers; in C++, we have clas
 
 **Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
 
+
+
+
+### Day 41: Feburary 12, 2017 Sunday
+
+**Today's Progress**: Tried implementing queues and linked lists, and tried doing operations such as merging, sorting, etc.
+
+**Thoughts**: Heapsort takes the advantages of insertion sort(in-place) and merge sort(O(nlgn) time). 
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 42: Feburary 13, 2017 Monday
+
+**Today's Progress**: Learnt about young tableau and quick sort.
+
+**Thoughts**: Young tableau is very similar to how heap sort works, but instead we apply heapify on 2D tableau.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 43: Feburary 14, 2017 Tuesday
+
+**Today's Progress**: Tried optimizing the tail recusion part of quick sort.
+
+**Thoughts**: Quick sort usually performs better than merge sort in practice because it has tail recursion and can be optimized by the compiler. Moreover, since quicksort has two recusion calls, we can optimize furthur by choose the larger partition to do the tail recursion.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 44: Feburary 15, 2017 Wednesday
+
+**Today's Progress**: Took a look at a couple of ways to do sorting in O(n) time including counting sort, radix sort, and bucket sort.
+
+**Thoughts**: These three sorting algos have their own requirements for the input dataset. Counting sort can be used when the input numbers are in a range of 1~k. Radix sort is applied to multiple digit numbers but we can always change the base of the input number(eg. base 10 to 5). And radix sort uses counting sort as a subalgorithm.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 45: Feburary 16, 2017 Thursday
+
+**Today's Progress**: Added code for counting sort.
+
+**Thoughts**: Same as yesterday:P
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 46: Feburary 17, 2017 Friday
+
+**Today's Progress**: Finished up on a project at work.
+
+**Thoughts**: Some reflections on the experience is that the performance was a big issue when we are dealing with large incoming data. The program is running at an acceptable speed at the beginning but when I try to optimize the program to display more accurate data, it starts to have long delays. The first time, I changed the frequency of sending data, because I had too many for loops going through arrays and sending data through redis channel where there is actually not much change in the array. Then the second problems was that I created too many redis channels. After fixing these issues, it starts to get back its speed. Then we found that the CPU usage of the redis server is increasing as time goes so I double checked to see if redis connections are closed properly.
+
+
+
+
+### Day 47: Feburary 18, 2017 Saturday
+
+**Today's Progress**: Started familiarizing with rooted tree structures.
+
+**Thoughts**: There are some very interesting tree structures such as n-node tree, red-black tree, prefix tree, etc. And we can always traverse the tree recursively or non-recursively.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 48: Feburary 19, 2017 Sunday
+
+**Today's Progress**: Started familiarizing with how hasing works for hashtables.
+
+**Thoughts**: There is direct mapping tables, which is fast but does not work for large dataset with unlimited number of keys.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
 ###I am updating this log every week:) It's that nice?
