@@ -513,4 +513,156 @@ In Java, we use interface; in C, we have function pointers; in C++, we have clas
 
 **Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
 
+
+
+
+### Day 49: Feburary 20, 2017 Monday
+
+**Today's Progress**: Started familiarizing with trees. More specifically, red-black trees.
+
+**Thoughts**: For red-black tree which are approximately balanced binary search trees with one extra bit of storage per node, color. The root node and every leaf nodes are always black. And a red node always have only black children. And one every simple path from a node, the number of black nodes on the path is the same(black height). In order to deal with boundary conditions, i used a sentinel node to represent null, where every leaf node will point to.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+
+### Day 50: Feburary 21, 2017 Tuesday
+
+**Today's Progress**: Started familiarizing with trees. More specifically, red-black trees.
+
+**Thoughts**: Some helper functions like findMin, findMax, leftRotate, rightRotate, transplant are really helpful in writing code for basic tree operations. 
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 51: Feburary 22, 2017 Wednesday
+
+**Today's Progress**: Started familiarizing with trees. More specifically, red-black trees.
+
+**Thoughts**: A red-black tree with n internal nodes(key-bearing nodes, exclude sentinel) has height at most 2lg(n+1). This is based on that the subtree rooted at any node x contains at least 2^bh - 1 internal nodes. Since bh is at least h/2 based on rbt properties, n >= 2^(h/2)-1, thus, lg(n+1) >= h/2.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 52: Feburary 23, 2017 Thursday
+
+**Today's Progress**: Started familiarizing with trees. More specifically, red-black trees.
+
+**Thoughts**: We can transform any binary search tree into a sorted linkedlist by doing n-1 rotations in total.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 53: Feburary 24, 2017 Friday
+
+**Today's Progress**: Started familiarizing with trees. More specifically, red-black trees.
+
+**Thoughts**: To do insertions and deletions of nodes into and from a red-black tree, there are some fixups to do.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 54: Feburary 25, 2017 Saturday
+
+**Today's Progress**: Get to know about AVL trees.
+
+**Thoughts**: AVL trees vs. Red-Black trees.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 55: Feburary 26, 2017 Sunday
+
+**Today's Progress**: Get to know some augmented data structures based on red-black trees or binary search trees, such as, interval trees, order statistic trees, etc.
+
+**Thoughts**: Usually, we augmented these common data structures by adding attributes to for example nodes of trees. It is important to keep in mind that we do not change the running complexity of the data structure. For example, trees should still maintain O(lgn) running time for most basic operations.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 56: Feburary 27, 2017 Monday
+
+**Today's Progress**: Started getting farmiliar with dynamic programming.
+
+**Thoughts**: Finally figured out the difference between top-down and bottom-up approaches...
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 57: Feburary 28, 2017 Tuesday
+
+**Today's Progress**: Worked on a rod-cutting dp problem.
+
+**Thoughts**: The naive solution basically loops through all possible ways of cutting the rod, and then figure out the optimal solution, which takes exponential time.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 58: March 1, 2017 Wednesday
+
+**Today's Progress**: Worked on a rod-cutting dp problem.
+
+**Thoughts**: To improve upon the naive solution, we simply add a memoization table, to achieve a O(n^2) solution because we avoided recalculating overlapping subproblems.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 59: March 2, 2017 Thursday
+
+**Today's Progress**: Added some test codes for rod-cutting problems.
+
+**Thoughts**: I prefer the bottom up approach of dp problems and plus they usually perform better since they do not have recursion costs. It is easier to understand since we solve all subproblems first so when we come to the bigger problem, we have all it needs to solve this bigger problem using solutions to its smaller subproblems.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 60: March 3, 2017 Friday
+
+**Today's Progress**: Started working on a matrix chain parenthesization problem. Same approach as the rod-cutting problem and we are able to improve the running time from O(2^n) to O(n^3). Hooray
+
+**Thoughts**: I did not notice before that if we have a chain of matrices, how we parenthesize them can make a huge difference in the running time of their chain multiplication.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 61: March 4, 2017 Saturday
+
+**Today's Progress**: Used several techniques to solve the classic fibonacci problem.
+
+**Thoughts**: Math and statistics are indeed really important subjects, especially when I am analyzing algorithms' recurrence...
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 62: March 5, 2017 Sunday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. Started looking at some properties of the problem that imply that we should use dynamic programming techniques.
+
+**Thoughts**: The two ingradients of a dp problems are 1) optimal subproblems which may lead to a bottom up solution, 2) overlapping subproblems which may lead to a recursive top down solution with memoization.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 63: March 6, 2017 Monday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: Noticed that merge sort problem cannot be improved by memoization because it does not have overlapping subproblems, despite that it is a nice divide-and-conquer problem.
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
 ###I am updating this log every week:) It's that nice?
