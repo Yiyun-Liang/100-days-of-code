@@ -663,6 +663,341 @@ In Java, we use interface; in C, we have function pointers; in C++, we have clas
 
 **Thoughts**: Noticed that merge sort problem cannot be improved by memoization because it does not have overlapping subproblems, despite that it is a nice divide-and-conquer problem.
 
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 64: March 7, 2017 Tuesday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: Wrap up with previous problem.
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 65: March 8, 2017 Wednesday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: It is getting colder:(
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 66: March 9, 2017 Thursday
+
+**Today's Progress**: Played around with some linux cron tasks.
+
+**Thoughts**: Crontab allows me to schedule a task in specific syntax that cron understands without explicitly setting up a timer to keep track so this is very convinient.
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 67: March 10, 2017 Friday
+
+**Today's Progress**: Practice some old problems for google i/o 2016 to prepare for tomorrow's code jam.
+
+**Thoughts**: One problem involves some math which I probably will learn about next term so I am looking forward to learning that:)
+
+**Link(s) to work**: [Google I/O Code Jam 2016](https://github.com/Yiyun-Liang/Google-IO-CodeJam/tree/master/src/com/isa/GoogleIO2016)
+
+
+
+### Day 68: March 11, 2017 Saturday
+
+**Today's Progress**: Participated in the Google I/O Code Jam for Women 2017.
+
+**Thoughts**: There are quite a few interesting problems and since we need to submit a solution for a small input and a big input. Most of the time, a brute force solution will suffice for the small input. When it comes to the bigger input, we sometimes need to find the pattern in the problem, to see if there is a way to solve the problem without checking all the possibilities. And this can be achieved by doing some math. Math is so important.
+
+**Link(s) to work**: [Google I/O Code Jam 2017](https://github.com/Yiyun-Liang/Google-IO-CodeJam/tree/master/src/com/isa/GoogleIO2017)
+
+
+
+### Day 69: March 12, 2017 Sunday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: Started looking at the optimal binary search tree problem. Noticed that 2D arrays are frequently used to construct solution and memo table for dp problems. Moreover, we often pick a chain length to divide the problem into ones with different length.
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 70: March 13, 2017 Monday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: .
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 71: March 14, 2017 Tuesday
+
+**Today's Progress**: Continued to work on some dynamic programming problems. 
+
+**Thoughts**: .
+
+**Link(s) to work**: [Algorithms DP](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/DynamicProgramming)
+
+
+
+### Day 72: March 15, 2017 Wednesday
+
+**Today's Progress**: Started taking the machine learning course by Andrew Ng on Coursera.
+
+**Thoughts**: Machine learning is actually teaching machines to learn. That is not what I thought it was before so it is pretty good to know that.
+
+**Link(s) to work**: [Machine Learning](https://github.com/Yiyun-Liang/machine-learning-notes)
+
+
+
+### Day 73: March 16, 2017 Thursday
+
+**Today's Progress**: Kept learning about machine learning concepts.
+
+**Thoughts**: Math is so important. I never felt like that until I started learning about algorithms and advanced computer science topics.
+
+**Link(s) to work**: [Machine Learning](https://github.com/Yiyun-Liang/machine-learning-notes)
+
+
+
+### Day 74: March 17, 2017 Friday
+
+**Today's Progress**: Kept learning about machine learning concepts.
+
+**Thoughts**: Linear regressions.
+
+**Link(s) to work**: [Machine Learning](https://github.com/Yiyun-Liang/machine-learning-notes)
+
+
+
+### Day 75: March 18, 2017 Saturday
+
+**Today's Progress**: Started farmilarizing with Greedy Algorithms.
+
+**Thoughts**: I used to think that greedy algorithms are just not worth the time to learn about because they do not always work. After digging a bit deeper into these algorithms, I realized that they are smart and they do save you time and space, but you have to also be good at math in order to think of greedy approaches sometimes...
+
+**Link(s) to work**: [Greedy Algorithms](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/GreedyAlgorithm)
+
+
+
+### Day 76: March 19, 2017 Sunday
+
+**Today's Progress**: Learnt about java.util.stream class introduced in Java 8.
+
+**Thoughts**: This truly makes java more functional. When I was learning Scala, I thought that it would be great if these simple operations(eg. collect, reduce, flatmap, map, Optional, etc) can be done in java. So it is great to see that we can now be functional in java as well.
+
+**Link(s) to work**: [Java 8 Streams](https://github.com/Yiyun-Liang/Algorithms/blob/master/src/com/isa/Java8Stream.java)
+
+
+
+### Day 77: March 20, 2017 Monday
+
+**Today's Progress**: Learnt about java.util.stream class introduced in Java 8.
+
+**Thoughts**: More example on streams.
+
+**Link(s) to work**: [Java 8 Streams](https://github.com/Yiyun-Liang/Algorithms/blob/master/src/com/isa/Java8Stream.java)
+
+
+
+### Day 78: March 21, 2017 Tuesday
+
+**Today's Progress**: Thought about some programming tips and put them into random notes.
+
+**Thoughts**: Listened to a live stream the other day on how to prepare for job interviews. There are always times where I need a dynamic array, and I start thinking about using arraylists. But now I have realized that stacks can be good choices as well.
+
 **Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
 
-###I am updating this log every week:) It's that nice?
+
+
+### Day 79: March 22, 2017 Wednesday
+
+**Today's Progress**: Learnt about B-Tree.
+
+**Thoughts**: I have been seeing 2-3-4 trees and b+ trees a lot recently so it is good that I finally understand what they are. I did not know that b-tree is good for minimizing disk accesses, which saves efficiency and cost. 
+
+**Link(s) to work**: [B-Trees](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/BTree)
+
+
+
+### Day 80: March 23, 2017 Thursday
+
+**Today's Progress**: Kept working on B-Trees.
+
+**Thoughts**: Traversing a b-tree is easy once i understand how traversing works for normal binary trees, but for b-trees, it takes O(klgn) times now where k is the number of keys stored in a node, and log is based on k rather than 2 as well. 
+
+**Link(s) to work**: [B-Trees](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/BTree)
+
+
+
+### Day 81: March 24, 2017 Friday
+
+**Today's Progress**: Kept working on B-Tree.
+
+**Thoughts**: Updated some comments which explains some b-tree related definitions. 
+
+**Link(s) to work**: [B-Trees](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/BTree)
+
+
+
+### Day 82: March 25, 2017 Saturday
+
+**Today's Progress**: Started working on graphs.
+
+**Thoughts**: Even though I learnt some about graph theories during ECE 103, I still feel intimidated by graphs. I guess it is important to understand BFS and DFS and several other algorithms.
+
+**Link(s) to work**: [Graphs](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/Graph)
+
+
+
+### Day 83: March 26, 2017 Sunday
+
+**Today's Progress**: Kept working on graphs.
+
+**Thoughts**: Recently struggling with using dijkstra's algorithm to trace a path... Need to look into this algorithm probably..
+
+**Link(s) to work**: [Graphs](https://github.com/Yiyun-Liang/Algorithms/tree/master/src/com/isa/Graph)
+
+
+
+
+### Day 84: March 27, 2017 Monday
+
+**Today's Progress**: Finally had some progress on my vr app...
+
+**Thoughts**: OpenGL is so HARD to USEEEEE!!! WHY do we use pitch, yaw, and row rather than x!, y!, and z! What is a quaternion!!! Why do we have so many ways to describe a 3D space!!!
+
+**Link(s) to work**: daydreaming...
+
+
+
+### Day 85: March 28, 2017 Tuesday
+
+**Today's Progress**: Casual day...
+
+**Thoughts**: Random notes... 
+
+**Link(s) to work**: [Algorithms](https://github.com/Yiyun-Liang/Algorithms)
+
+
+
+### Day 86: March 29, 2017 Wednesday
+
+**Today's Progress**: There are many thing listed in Cracking the coding interview that I have never heard of before...
+
+**Thoughts**: It is good that I now know about them... 
+
+**Link(s) to work**: [CTCI](https://github.com/Yiyun-Liang/Algorithms/tree/master/interview)
+
+### Day 87: March 30, 2017 Thursday
+
+**Today's Progress**: JVM
+
+**Thoughts**: Get better understanding of how java works in the compilation process.
+
+**Link(s) to work**: [CTCI Java](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/Java.md)
+
+
+### Day 88: March 31, 2017 Friday
+
+**Today's Progress**: Trees are important!
+
+**Thoughts**: Practice always make you better at things.
+
+**Link(s) to work**: [CTCI Tree](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/TreeGraph.md)
+
+### Day 89: April 1, 2017 Saturday
+
+**Today's Progress**: Graphs are closely related to trees.
+
+**Thoughts**: Trees are actually a type of graph so I am trying to convince myself that graphs are not that terrible...
+
+**Link(s) to work**: [CTCI Graph](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/TreeGraph.md)
+
+### Day 90: April 2, 2017 Sunday
+
+**Today's Progress**: Object-oriented designs.
+
+**Thoughts**: When I think about oo design questions, I am not able to think of details almost all the time, so there are so many things I can add to my design which will make the system more robust and extendable. But I do think these types of questions are super important since I often get work that needs these types of skills from my supervisor...
+
+**Link(s) to work**: [CTCI OO Design](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/OODesign.md)
+
+
+### Day 91: April 3, 2017 Monday
+
+**Today's Progress**: Learnt about some C++ syntaxs that are related to object-oriented programming in C/C++.
+
+**Thoughts**: Although I took a course in first year that uses C++, I do not feel that I have a solid understanding of the language. Moreover, I am spending a lot of time on Java. I have a strong feeling that I do not have enough time to do what I want to do and to learn what I want to learn!!!
+
+**Link(s) to work**: [CTCI C/C++](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/C_C%2B%2B.md)
+
+### Day 92: April 4, 2017 Tuesday
+
+**Today's Progress**: Learnt about the gradient descent algorithm ...
+
+**Thoughts**: It is interesting... 
+
+**Link(s) to work**: [Gradient Descent](https://github.com/Yiyun-Liang/machine-learning-notes/blob/master/gradient-descent.md)
+
+### Day 93: April 5, 2017 Wednesday
+
+**Today's Progress**: Learnt about Google Cloud Dataflow...
+
+**Thoughts**: It is very interesting that all google products can be used together, eg. google cloud dataflow, google cloud storage, datastores, etc... 
+
+**Link(s)**: [Google Cloud Dataflow Official Website](https://cloud.google.com/dataflow/)
+
+### Day 94: April 6, 2017 Thursday
+
+**Today's Progress**: I was writing my work term report this week. I decided to write about Google BigQuery and other real-time data processing solutions.
+
+**Thoughts**: In one of Google's white papers, they mentioned that BQ uses two core technologies to achieve the fast execution time of big data processing, one is columnar storage which allows faster scan on the table for queries that only accesses one attribute, the other one is tree architecture that allows better work distribution. 
+
+**Link(s)**: [Google BigQuery White Paper](https://cloud.google.com/files/BigQueryTechnicalWP.pdf)
+
+### Day 95: April 7, 2017 Friday
+
+**Today's Progress**: Thread
+
+**Thoughts**: Still not sure what the different between locks and semaphores is in Java...
+
+**Link(s)**: [Use of Semaphores](https://github.com/careercup/CtCI-6th-Edition/blob/master/Java/Ch%2015.%20Threads%20and%20Locks/Q15_05_Call_In_Order/Foo.java)
+
+### Day 96: April 8, 2017 Saturday
+
+**Today's Progress**: Spent some time trying to figure out a good way to draw a path that follows the real world's transportation system between two geographical points(described by latitude and longitude).
+
+**Thoughts**: Started with dijkastra's algorithm but the right path is not always the shortest one...
+
+**Link(s)**: 
+
+### Day 97: April 9, 2017 Sunday
+
+**Today's Progress**: Started familiarizing myself with recursions and dynamic programming problems.
+
+**Thoughts**: I highly agree to the advice that practice makes perfect.
+
+**Link(s)**: [Recursion](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/recurionDP.md)
+
+### Day 98: April 10, 2017 Monday
+
+**Today's Progress**: Started familiarizing myself with recursions and dynamic programming problems.
+
+**Thoughts**: Drawing a tree for recursive calls can help visualizing the runtime of dynamic programming problems.
+
+**Link(s)**: [DP](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/recurionDP.md)
+
+### Day 99: April 11, 2017 Tuesday
+### Day 100: April 12, 2017 Wednesday
+
+##### 100 days of code is a great activity but I did not fully meet the requirement this time. I was quite busy during the time period and I spent most of my time on algorithms instead of individual projects because I got a strong sense of its importance during my internship. 
+
+##### The one requirement that I met is that I coded every single day for at least one hour (not including the time I spent on my internship). So this log served as a daily log/dairy where I put down my thoughts and feelings. It still looks good when I look back to the progress I have made here and there during the 100 days. It also gives me more confidence to face more challenging work in the future. I will definitely join this activity again in the future.
+##### I cannot believe 100 days have passed...
