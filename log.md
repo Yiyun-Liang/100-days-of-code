@@ -995,7 +995,24 @@ In Java, we use interface; in C, we have function pointers; in C++, we have clas
 **Link(s)**: [DP](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/recurionDP.md)
 
 ### Day 99: April 11, 2017 Tuesday
+
+
+**Today's Progress**: Played with the recusive solution to the Tower of Hanoi problem.
+
+**Thoughts**: I feel like when thinking about recursive problems, it is easier to think at very high level. Otherwise, it will be hard to understand the solution once you are stuck in recursion.
+
+**Resources**: [DP Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+
+**Link(s)**: [DP](https://github.com/Yiyun-Liang/Algorithms/blob/master/interview/recurionDP.md)
+
 ### Day 100: April 12, 2017 Wednesday
+
+
+**Today's Progress**: Learnt about views in the context of database theory. The definition is that "In database theory, a view is the result set of a stored query on the data, which the database users can query just as they would in a persistent database collection object."
+
+**Thoughts**: We were having this problem and we solved it using views. The problem is that we have scheduled Google dataflows that queries certain datasets every month and appends results into certain tables. Then we want to generate data reports using BIME for the latest result, which is hard to do because BIME prefers to show a data filter that filters data by timestamps. Then, we learnt about views, which keeps the latest record of a table, the query stored in the view will be something like select where timestamp equals the max timestamp of the table. Through BIME, we could simply do a select * query on this view, and in the end we are able to get the latest result. 
+
+**Link(s)**: [View (SQL)](https://en.wikipedia.org/wiki/View_(SQL))
 
 ##### 100 days of code is a great activity but I did not fully meet the requirement this time. I was quite busy during the time period and I spent most of my time on algorithms instead of individual projects because I got a strong sense of its importance during my internship. 
 
